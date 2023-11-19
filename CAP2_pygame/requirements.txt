@@ -1,0 +1,1 @@
+To run the game, pygame is needed to be install. 
